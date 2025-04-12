@@ -11,10 +11,9 @@ body {
 
 /* замена изображения курсора */
 html {
-   cursor: url('../images/Middle Ages--pointer--SweezyCursors.png'), default;
+  cursor: url('../images/Middle Ages--pointer--SweezyCursors.png'), default;
 }
 
-html {
 a:hover {
   cursor: url('../images/Middle Ages--cursor--SweezyCursors.png'), pointer;
 }
@@ -106,7 +105,7 @@ a:hover {
 .MAGIC p {
   margin-top: 5;
 	margin: 10px 0;
-  font-size: 3.2em;
+  font-size: 3.0em;
 }
 
 
